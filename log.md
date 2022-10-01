@@ -1,30 +1,31 @@
 # 100 Days Of Code - Log
-
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+## Main Resource followed: [The Odin Project](https://www.theodinproject.com/paths)   
 
 
-### Day 1: June 27, Monday
+### Day 1: October 1, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:
+- Built my mindset first of all.  
+- How we are all interconnected through the internet.  
+- What are IP addresses and how DNS works.  
+- Went in depth on Git, Github and its history through Git and Github tutorial. (by Apoorv Goyal on YouTube)  
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** It was good learning about the internet how we are all interconnected through fibre cables. Also Git seems to be a very interesting software, was a very well made technical video.  
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Resources:** [Git and Github .1](https://youtu.be/LQ2LTPHeTts) | [Git and Github .2](https://youtu.be/fkKfKsASjV4)   
+               [How Internet works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)   
+               [How to learn to code and build mindset](https://youtu.be/j-BVv0XW1H8)   
+               [Learn to Code when its gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd#.yjh0fehje)   
+               
+<!---**Link(s) to work**: [Calculator App](http://www.example.com)--->   
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 2: October 2, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:** 
+
+**Resources:**  
+               
+<!---**Link to work**: [Calculator App](http://www.example.com)--->  
