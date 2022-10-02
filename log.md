@@ -18,14 +18,34 @@
                [Learn to Code when its gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd#.yjh0fehje)   
                
 <!---**Link(s) to work**: [Calculator App](http://www.example.com)--->   
------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 2: October 2, 2022
 
-**Today's Progress**:
+**Today's Progress**:  
+- HTML
+- Boilerplate
+- Elements
+- Links
+- Built a raw webpage with HTML 
 
+**Thoughts:**  
+Could have done better, wasted a lot of my time. Will get back stronger tomorrow 💪
 
-**Thoughts:** 
+**Resources:**  
+1. [File Structure](https://youtu.be/ta3Oxx7Yqbo)    
+2. [Images](https://youtu.be/0xoztJCHpbQ)
+3. [Links](https://youtu.be/tsEQgGjSmkM)
+4. [Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
+5. [Links](https://youtu.be/tsEQgGjSmkM)
+               
+<!---**Link to work**: [Calculator App](http://www.example.com)--->    
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+### Day 3: October 3, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**  
 
 **Resources:**  
                
-<!---**Link to work**: [Calculator App](http://www.example.com)--->  
+<!---**Link to work**: [Calculator App](http://www.example.com)--->    
