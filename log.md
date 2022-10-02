@@ -36,7 +36,6 @@ Could have done better, wasted a lot of my time. Will get back stronger tomorrow
 2. [Images](https://youtu.be/0xoztJCHpbQ)
 3. [Links](https://youtu.be/tsEQgGjSmkM)
 4. [Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
-5. [Links](https://youtu.be/tsEQgGjSmkM)
                
 <!---**Link to work**: [Calculator App](http://www.example.com)--->    
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
