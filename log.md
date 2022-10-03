@@ -42,7 +42,12 @@ Could have done better, wasted a lot of my time. Will get back stronger tomorrow
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### Day 3: October 3, 2022
 
-**Today's Progress**:  
+**Today's Progress**:   
+- Foundations of CSS
+- Improved the Recipe site I built yesterday with CSS
+- Learnt about ChromeDevTools and how I can use it to debug Web Pages.
+- CSS Box Model
+- Block vs Inline CSS
 
 **Thoughts:**  
 
