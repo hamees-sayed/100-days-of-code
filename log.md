@@ -47,11 +47,16 @@ Could have done better, wasted a lot of my time. Will get back stronger tomorrow
 - Improved the Recipe site I built yesterday with CSS
 - Learnt about ChromeDevTools and how I can use it to debug Web Pages.
 - CSS Box Model
-- Block vs Inline CSS
+- Block vs Inline Elements CSS
 
 **Thoughts:**  
+Learn more in depth about CSS and all the technical aspects.
 
-**Resources:**  
+**Resources:**   
+1. [Chrome Devtools CSS](https://developer.chrome.com/docs/devtools/css/)
+2. [CSS Box Model](https://youtu.be/rIO5326FgPE)
+3. [Layout of Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+4. [Inline vs Block Element CSS](https://www.digitalocean.com/community/tutorials/css-display-inline-vs-inline-block)
                
 <!---**Link to work**: [Calculator App](http://www.example.com)--->   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
