@@ -5,6 +5,9 @@
 ### Day 1: October 1, 2022
 
 **Today's Progress**:
+	▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 1%
+  
+  Learnt about: 
 - Built my mindset first of all.  
 - How we are all interconnected through the internet.  
 - What are IP addresses and how DNS works.  
@@ -23,6 +26,9 @@
 ### Day 2: October 2, 2022
 
 **Today's Progress**:  
+	▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 2%
+
+Learnt about:
 - HTML
 - Boilerplate
 - Elements
@@ -42,7 +48,10 @@ Could have done better, wasted a lot of my time. Will get back stronger tomorrow
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### Day 3: October 3, 2022
 
-**Today's Progress**:   
+**Today's Progress**: 
+▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 3%  
+
+Learnt about: 
 - Foundations of CSS
 - Improved the Recipe site I built yesterday with CSS
 - Learnt about ChromeDevTools and how I can use it to debug Web Pages.
@@ -63,10 +72,23 @@ Learn more in depth about CSS and all the technical aspects.
 ### Day 4: October 4, 2022
 
 **Today's Progress**:   
+▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 4% 
 
-**Thoughts:**  
+Learnt about: 
+- Went a bit more in-depth CSS.
+- Flexbox 
+- Growing and Shrinking Flexbox.
+- Axes
+- Alignment
+
+**Thoughts:**   
+It was a bit difficult to understand but I'm going to revise and get better!!
 
 **Resources:**   
+1. https://internetingishard.com/html-and-css/flexbox/ (Hands down the best)
+2. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox
+3. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Alignment 
+4. https://youtu.be/CFgeJq4l1YM
                
 <!---**Link to work**: [Calculator App](http://www.example.com)--->   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
