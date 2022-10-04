@@ -4,8 +4,8 @@
 
 ### Day 1: October 1, 2022
 
-**Today's Progress**:
-	▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 1%
+**Today's Progress**:  
+▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 1%
   
   Learnt about: 
 - Built my mindset first of all.  
@@ -26,7 +26,7 @@
 ### Day 2: October 2, 2022
 
 **Today's Progress**:  
-	▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 2%
+▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 2%
 
 Learnt about:
 - HTML
