@@ -48,7 +48,7 @@ Could have done better, wasted a lot of my time. Will get back stronger tomorrow
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### Day 3: October 3, 2022
 
-**Today's Progress**: 
+**Today's Progress**:   
 ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 3%  
 
 Learnt about: 
