@@ -85,10 +85,25 @@ Learnt about:
 It was a bit difficult to understand but I'm going to revise and get better!!
 
 **Resources:**   
-1. https://internetingishard.com/html-and-css/flexbox/ (Hands down the best)
-2. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox
-3. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Alignment 
-4. https://youtu.be/CFgeJq4l1YM
+1. [Flexbox in Depth](https://internetingishard.com/html-and-css/flexbox/) (Hands down the best)
+2. [Flexbox use case](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox)
+3. [Flexbox Alignment](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Alignment)
+4. [Flexbox shorthand](https://youtu.be/CFgeJq4l1YM)
+               
+<!---**Link to work**: [Calculator App](http://www.example.com)--->   
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+### Day 5: October 5, 2022
+
+**Today's Progress**:   
+█▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 5%
+
+Learnt about: 
+
+
+**Thoughts:**   
+
+
+**Resources:**   
                
 <!---**Link to work**: [Calculator App](http://www.example.com)--->   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
