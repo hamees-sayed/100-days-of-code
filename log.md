@@ -98,12 +98,58 @@ It was a bit difficult to understand but I'm going to revise and get better!!
 █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 5%
 
 Learnt about: 
+- Built a project
+- Learnt more about flexbox and alignment
+- Checkout the live project here 👇
+- [Source code](https://github.com/hamees-sayed/odin-landing-page)
+
+**Thoughts:**   
+Frontend is kinda hard, personally not a big fan of it. On another note, I have completed the HTML and CSS part in the foundation section of The Odin Project. So will take a break tomorrow and start with Javascript 💪🚀
+
+**Resources:**     
+               
+**Link to work:** [Odin Landing Page](https://odin-landing-page-2510.netlify.app)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+### October 6, 2022
+
+**Today's Progress**:   
+
+# BREAK  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+### Day 6: October 7, 2022
+
+**Today's Progress**:   
+█▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 6%
+
+Learnt about: 
+- Basics of Function
+- String & Variables
+- Basics of DOM
+- script tag  
+- getElementById
+- [Source Code](https://github.com/hamees-sayed/passenger-counter-app) of the project.
+
+**Thoughts:**   
+Wrote my first line of Javascript, it's good but Go felt better tbh.
+
+**Resources:**     
+               
+**Link to work:** [Passenger Counter App](https://passenger-counter-2510.netlify.app)
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+### Day 7: October 8, 2022
+
+**Today's Progress**:   
+█▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 7%
+
+Learnt about: 
 
 
 **Thoughts:**   
 
 
-**Resources:**   
+**Resources:**     
                
-<!---**Link to work**: [Calculator App](http://www.example.com)--->   
+<!-- **Link to work:** -->
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
