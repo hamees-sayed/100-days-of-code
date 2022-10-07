@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
-## Main Resource followed: [The Odin Project](https://www.theodinproject.com/paths)   
-
+## Main Resource followed: [The Odin Project](https://www.theodinproject.com/paths)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Day 1: October 1, 2022
 
@@ -21,7 +21,8 @@
 3. [How to learn to code and build mindset](https://youtu.be/j-BVv0XW1H8)   
 4. [Learn to Code when its gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd#.yjh0fehje)   
                
-<!---**Link(s) to work**: [Calculator App](http://www.example.com)--->   
+<!---**Link(s) to work**: [Calculator App](http://www.example.com)--->     
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 2: October 2, 2022
 
@@ -44,7 +45,8 @@ Could have done better, wasted a lot of my time. Will get back stronger tomorrow
 3. [Links](https://youtu.be/tsEQgGjSmkM)
 4. [Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
                
-<!---**Link to work**: [Calculator App](http://www.example.com)--->    
+<!---**Link to work**: [Calculator App](http://www.example.com)--->     
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### Day 3: October 3, 2022
 
@@ -66,8 +68,9 @@ Learn more in depth about CSS and all the technical aspects.
 2. [CSS Box Model](https://youtu.be/rIO5326FgPE)
 3. [Layout of Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 4. [Inline vs Block Element CSS](https://www.digitalocean.com/community/tutorials/css-display-inline-vs-inline-block)
-               
-<!---**Link to work**: [Calculator App](http://www.example.com)--->   
+                
+<!---**Link to work**: [Calculator App](http://www.example.com)--->     
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 4: October 4, 2022
 
@@ -90,7 +93,8 @@ It was a bit difficult to understand but I'm going to revise and get better!!
 3. [Flexbox Alignment](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Alignment)
 4. [Flexbox shorthand](https://youtu.be/CFgeJq4l1YM)
                
-<!---**Link to work**: [Calculator App](http://www.example.com)--->   
+<!---**Link to work**: [Calculator App](http://www.example.com)--->     
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### Day 5: October 5, 2022
 
@@ -108,8 +112,8 @@ Frontend is kinda hard, personally not a big fan of it. On another note, I have 
 
 **Resources:**     
                
-**Link to work:** [Odin Landing Page](https://odin-landing-page-2510.netlify.app)
----------------------------------------------------------------------------------------------------------------------------------------------------------
+**Link to work:** [Odin Landing Page](https://odin-landing-page-2510.netlify.app)  
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### October 6, 2022
 
@@ -135,8 +139,9 @@ Learnt about:
 Wrote my first line of Javascript, it's good but Go felt better tbh.
 
 **Resources:**     
-               
-**Link to work:** [Passenger Counter App](https://passenger-counter-2510.netlify.app)
+                
+**Link to work:** [Passenger Counter App](https://passenger-counter-2510.netlify.app)   
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### Day 7: October 8, 2022
 
@@ -151,5 +156,6 @@ Learnt about:
 
 **Resources:**     
                
-<!-- **Link to work:** -->
+<!-- **Link to work:** -->   
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
