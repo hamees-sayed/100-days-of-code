@@ -7,7 +7,7 @@
 **Today's Progress**:  
 ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 1%
   
-  Learnt about: 
+  **Learnt about:** 
 - Built my mindset first of all.  
 - How we are all interconnected through the internet.  
 - What are IP addresses and how DNS works.  
@@ -29,7 +29,7 @@
 **Today's Progress**:  
 ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 2%
 
-Learnt about:
+**Learnt about:**
 - HTML
 - Boilerplate
 - Elements
@@ -53,7 +53,7 @@ Could have done better, wasted a lot of my time. Will get back stronger tomorrow
 **Today's Progress**:   
 ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 3%  
 
-Learnt about: 
+**Learnt about:** 
 - Foundations of CSS
 - Improved the Recipe site I built yesterday with CSS
 - Learnt about ChromeDevTools and how I can use it to debug Web Pages.
@@ -77,7 +77,7 @@ Learn more in depth about CSS and all the technical aspects.
 **Today's Progress**:   
 ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 4% 
 
-Learnt about: 
+**Learnt about:** 
 - Went a bit more in-depth CSS.
 - Flexbox 
 - Growing and Shrinking Flexbox.
@@ -101,7 +101,7 @@ It was a bit difficult to understand but I'm going to revise and get better!!
 **Today's Progress**:   
 █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 5%
 
-Learnt about: 
+**Learnt about:** 
 - Built a project
 - Learnt more about flexbox and alignment
 - Checkout the live project here 👇
@@ -127,20 +127,20 @@ Frontend is kinda hard, personally not a big fan of it. On another note, I have 
 **Today's Progress**:   
 █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 6%
 
-Learnt about: 
+**Learnt about:**   
 - Basics of Function
 - String & Variables
 - Basics of DOM
 - script tag  
 - getElementById
-- [Source Code](https://github.com/hamees-sayed/passenger-counter-app) of the project.
+- [Source Code](https://github.com/hamees-sayed/passenger-counter-app) for the project.
 
 **Thoughts:**   
 Wrote my first line of Javascript, it's good but Go felt better tbh.
 
 **Resources:**     
                 
-**Link to work:** [Passenger Counter App](https://passenger-counter-2510.netlify.app)   
+**Link to work:** [Passenger Counter App](https://passenger-counter-2510.netlify.com)   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### Day 7: October 8, 2022
@@ -148,14 +148,36 @@ Wrote my first line of Javascript, it's good but Go felt better tbh.
 **Today's Progress**:   
 █▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 7%
 
-Learnt about: 
+**Learnt about:**
+- Practiced working with functions
+- DOM Model
+- Variables
+- [Source Code](https://github.com/hamees-sayed/basketball-score-counter) for the project.
 
-
-**Thoughts:**   
+**Thoughts:**    
+Worked my way through it, also this is the best looking site I've ever built and also wrote clean css. 
 
 
 **Resources:**     
                
-<!-- **Link to work:** -->   
+**Link to work:** [Basketball Score Counter App](https://basketball-score-2510.netlify.com) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 8: October 9, 2022
+
+**Today's Progress**:   
+█▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 8%
+
+**Learnt about:**
+
+
+**Thoughts:**    
+
+
+
+**Resources:**     
+               
+<!-- **Link to work:** -->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
