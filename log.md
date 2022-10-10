@@ -210,9 +210,7 @@ Went well, didn't realize how fast I completed all the learning modules.
 
 **Learnt about:**
 
-
 **Thoughts:**    
-Went well, didn't realize how fast I completed all the learning modules. 
 
 **Resources:**     
                
