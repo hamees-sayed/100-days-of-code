@@ -203,4 +203,22 @@ Went well, didn't realize how fast I completed all the learning modules.
 **Link to work:** [Blackjack Game](https://blackjack-2510.netlify.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 10: October 11, 2022
+
+**Today's Progress**:   
+██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 10%
+
+**Learnt about:**
+
+
+**Thoughts:**    
+Went well, didn't realize how fast I completed all the learning modules. 
+
+**Resources:**     
+               
+<!-- **Link to work:** m) -->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
