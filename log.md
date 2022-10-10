@@ -169,15 +169,38 @@ Worked my way through it, also this is the best looking site I've ever built and
 █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 8%
 
 **Learnt about:**
-
+- If else statements in JS
+- Arrays
+- Loops
+- Built the UI and added little functionality for the next project. 👍
 
 **Thoughts:**    
-
-
+I wasn't feeling it today, had a sore throat and body ache may be due to the rain.  
 
 **Resources:**     
                
 <!-- **Link to work:** -->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 9: October 10, 2022
+
+**Today's Progress**:   
+█▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 9%
+
+**Learnt about:**
+- Objects
+- Booleans
+- Math Object
+- Return Statement
+- Built a Blackjack game.
+- [Source Code](https://github.com/hamees-sayed/blackjack-game) for the project. 
+
+**Thoughts:**    
+Went well, didn't realize how fast I completed all the learning modules. 
+
+**Resources:**     
+               
+**Link to work:** [Blackjack Game](https://blackjack-2510.netlify.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
