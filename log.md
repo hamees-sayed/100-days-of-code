@@ -209,14 +209,47 @@ Went well, didn't realize how fast I completed all the learning modules.
 ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 10%
 
 **Learnt about:**
+Built a Password Generator Website, will also add word limit and copy to clipboard feature.
 
-**Thoughts:**    
+**Thoughts:**
+hard time understanding dom here, but worked it out
 
 **Resources:**     
                
 <!-- **Link to work:** m) -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 11: October 12, 2022
+
+**Today's Progress**:   
+██▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 11%
+
+**Learnt about:**
+Many different DOM elements and built basic version 1 of the next project👍
+
+**Thoughts:**
+Procrastinaed a lot today. Also completed hacktoberfest challenge.
+
+**Resources:**     
+               
+<!-- **Link to work:** m) -->
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------- 
+### Day 12: October 13, 2022
+
+**Today's Progress**:   
+██▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 12%
+
+**Learnt about:**
+
+**Thoughts:**  
+
+**Resources:**     
+               
+<!-- **Link to work:** m) -->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
