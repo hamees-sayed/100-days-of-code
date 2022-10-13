@@ -240,9 +240,11 @@ Procrastinaed a lot today. Also completed hacktoberfest challenge.
 **Today's Progress**:   
 ██▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 12%
 
-**Learnt about:**
+**Learnt about:**   
+- Learnt about localstorage and implemented it in the project. 
 
-**Thoughts:**  
+**Thoughts:**   
+Today was the day of procastination. Promise I'll get back tomorrow.
 
 **Resources:**     
                
