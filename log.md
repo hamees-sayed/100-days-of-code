@@ -256,6 +256,26 @@ Today was the day of procastination. Promise I'll get back tomorrow.
 **Today's Progress**:   
 ██▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 13%
 
+**Learnt about:**  
+- Event Listeners
+- more localstorage
+- function parameter and arguements
+- template string and JSON object  
+- Also completed scrimba's chrome extension project.    
+
+**Thoughts:**    
+Completed everything early today and didn't procrastinate😁
+
+**Resources:**     
+               
+<!-- **Link to work:** ) -->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 14: October 15, 2022
+
+**Today's Progress**:   
+██▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 14%
+
 **Learnt about:**   
 
 **Thoughts:**   
@@ -265,6 +285,7 @@ Today was the day of procastination. Promise I'll get back tomorrow.
 <!-- **Link to work:** m) -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
